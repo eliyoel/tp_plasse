@@ -10,5 +10,7 @@ package tp_plasse;
  * @author plasse
  */
 public class Michel {
-
+  public Michel() {
+    
+  }
 }
