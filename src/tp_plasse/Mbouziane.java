@@ -7,10 +7,8 @@ package tp_plasse;
 
 /**
  *
- * @author plasse
+ * @author fcd
  */
-public class Michel {
-  public Michel() {
+public class Mbouziane {
     
-  }
 }

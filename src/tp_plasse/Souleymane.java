@@ -9,6 +9,6 @@ package tp_plasse;
  *
  * @author fcd
  */
-public class Personne {
+public class Souleymane {
     
 }
