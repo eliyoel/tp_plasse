@@ -6,7 +6,7 @@
 package tp_plasse;
 
 /**
- *
+ * Ma classe Perso
  * @author vd
  */
 public class Vincent {
