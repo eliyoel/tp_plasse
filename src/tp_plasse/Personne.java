@@ -6,9 +6,9 @@
 package tp_plasse;
 
 /**
- * Ma classe Perso
- * @author vd
+ *
+ * @author fcd
  */
-public class Vincent {
-    
+public class Personne {
+    //Je crée des bugs !!!
 }
